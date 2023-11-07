@@ -47,8 +47,6 @@ with st.sidebar:
 
     place_lower = place.lower()
     
-    image = Image.open('imgplaces/' + place_lower + '.jpg')
-    st.image(image, caption = listplaces[place_lower])
 
     st.markdown(
         """
