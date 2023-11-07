@@ -1,3 +1,5 @@
-altair
-pandas
-streamlit
+langchain==0.0.329
+openai==0.28.1
+tiktoken==0.5.1
+streamlit==1.28.1
+qdrant-client==1.6.4
